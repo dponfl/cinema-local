@@ -1,7 +1,7 @@
 {
-  "name": "course-telegram-bot-cinema",
+  "name": "wspCinemaProto",
   "version": "1.0.0",
-  "description": "",
+  "description": "Telegram Bot Prototype Project",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
